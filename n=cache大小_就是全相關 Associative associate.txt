@@ -1,0 +1,5 @@
+n-ways Set-Associative，這個n=1，就是直接對應；n=cache大小，就是全相關對應
+
+
+全對應就是所有Cache Line可以對應 all 地址 Cache Miss減小了很多
+but 一條不命中的尋找，要遍歷整個Cache，才能最終確定下來。

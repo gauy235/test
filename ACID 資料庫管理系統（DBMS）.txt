@@ -1,0 +1,5 @@
+ACID 資料庫 
+原子性（atomicity，或稱不可分割性）、
+一致性（consistency）、
+隔離性（isolation，又稱獨立性）、
+持久性（durability
